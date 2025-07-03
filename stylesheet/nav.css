@@ -1,0 +1,26 @@
+.nav-item {
+    padding-right: 6rem;
+    padding-left: 4rem;
+}
+
+.footer-clean {
+    margin-top: 3rem;
+    padding:1rem 0rem;
+    background-color:#4b4c4d;
+    color:#ffffff;
+}
+
+.footer-clean ul {
+    list-style-type:none;
+	padding:0px;
+	display:table;
+	margin-top: 10px;
+	margin-right: 0rem;
+	margin-bottom: 10px;
+	margin-left: 0rem;
+}
+
+.footer-clean li {
+    display:inline;
+    padding-right: 0.5rem;
+}
